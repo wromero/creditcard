@@ -6,7 +6,7 @@ to develop Symfony applications following the recommended best practices.
 A command has been added to the application in order to implement a Credit 
 Card validation algorithm called Luhn.
 
-[![Build Status](https://travis-ci.org/symfony/symfony-demo.svg?branch=master)](https://travis-ci.org/symfony/symfony-demo)
+
 
 Requirements
 ------------
@@ -21,9 +21,6 @@ information.
 
 Installation
 ------------
-
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
-
 
 
 ```bash
