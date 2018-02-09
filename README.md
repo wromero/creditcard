@@ -39,7 +39,8 @@ Usage
 **VALIDATOR**
 
 The validator is a command that runs in the console. In order to use it, you need to provide a number 
-passed as a parameter to evaluate it if it is a valid credit card number or not. It can be used as:
+passed as a parameter to evaluate it if it is a valid credit card number or not. The source code of 
+the command can be found at _**src/AppBundle/Command/ValidateCreditCardCommand**_. It can be used as follows:
 ```bash
 $ php bin/console stackbuilders:validate 4012888888881881
 
